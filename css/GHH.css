@@ -1,0 +1,131 @@
+body {
+  background: url("30.gif")
+	background-color: black;
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+body,td,th {
+	font-family: Verdana, helvetica, arial, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+
+a:link {
+	color: #AA0907;
+	text-decoration: none;
+}
+a:visited {
+	color: #073768;
+	text-decoration: none;
+}
+a:hover {
+	color: #2E2B26;
+	text-decoration: underline;
+}
+a:active {
+	color: #ff0000;
+	text-decoration: none;
+}
+
+.style12 {
+	font-size: 16px;
+	font-style: normal;
+	color: #8C63D8;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+
+.style11 {
+	font-size: 14px;
+	font-style: normal;
+	color: #FF340B;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+
+.style10 {
+	font-size: 16px;
+	font-style: normal;
+	color: #8C63D8;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.style9 {
+	font-size: 4px;
+	font-style: normal;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+.style8 {
+	font-size: 9px;
+	font-style: normal;
+	color: black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+.style7 {
+	font-size: 14px;
+	font-style: normal;
+	color: #3668DB;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+
+.style6 {
+	font-size: 16px;
+	font-style: normal;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.style5 {
+	font-size: 15px;
+	font-style: normal;
+	color: black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.style4 {
+	font-size: 11px;
+	font-style: normal;
+	color: black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+.style3 {
+	font-size: 22px;
+	font-style: normal;
+	color: #8C63D8;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.style2 {
+	font-size: 17px;
+	font-style: normal;
+	color: #AA0907;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+
+.style1 {
+	font-size: 12px;
+	font-style: normal;
+	color: #2E2B26;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}

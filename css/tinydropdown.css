@@ -1,0 +1,150 @@
+* 
+	{
+	margin:0; 
+	padding:0; 
+	outline:0
+	}
+	
+body 
+	{
+	font:11px Verdana,Arial;
+	}
+	
+	.nav 
+		{
+		position:relative; 
+		 top:-10px; 
+		 left:3px; 
+		 width:616px; 
+		 height:40px; 
+		 text-align:center; 
+		 color:#fff; 
+		 text-shadow:1px 1px #888; 
+		 z-index:4
+		 }
+		 
+	.menu a 
+		{
+		float:left; 
+		color:#9c7070; 
+		text-decoration:none; 
+		width:150px; 
+		height:39px; 
+		padding-top:0px
+		}
+		
+	.menu span 
+		{
+		float:left; 
+		color:#9c7070; 
+		text-decoration:none; 
+		width:52px; 
+		height:39px; 
+		padding-top:8px
+		}
+		
+	.menu a:hover {}
+	.menu 
+		{
+		list-style:none; 
+		font:16px Arial,Verdana;
+		text-align:center; 
+		width:616px; padding-top:8px;
+		}
+		
+	.menu li 
+		{
+		position:relative; 
+		float:left; 
+		width:152px; 
+		z-index:1000;
+		}
+		
+	.menu ul 
+		{
+		display:none; 
+		position:absolute; 
+		font-weight:bold; 
+		font:normal 13px Arial,Verdana; 
+		top:39px; 
+		left:0; 
+		background:#9c7070; 
+		display:none; 
+		list-style:none
+		}
+	
+	.menu ul li 
+		{
+		float:none; 
+		width:150px; 
+		height:30px; 
+		top:5px;
+		}
+	
+	.menu ul li a, li.menuhover li a, li.menuhover li.menuhover li a 
+		{
+		float:none; 
+		display:block; 
+		background:none; 
+		height:22px; 
+		padding-top:5px
+		}
+	
+	.menu ul li a:hover, li.menuhover li a:hover, li.menuhover li.menuhover li a:hover 
+		{
+		background:#661414; 
+		color:#fff
+		}
+	
+	.menu ul li span, li.menuhover li span, li.menuhover li.menuhover li span 
+		{
+		float:none; 
+		display:block; 
+		background:none; 
+		height:22px; 
+		padding-top:5px
+		}
+	
+	.menu ul ul 
+		{
+		left:152px; 
+		top:0
+		}
+	
+	.menu li.submenu 
+		{
+		font-weight:bold
+		}
+	
+	.menu li.noborder 
+		{
+		border-top:none
+		}
+
+li.menuhover a, li.menuhover li.menuhover a 
+	{
+	color:#fff; 
+	background:#9c7070
+	}
+
+li.menuhover span, li.menuhover li.menuhover span 
+	{
+	color:#fff; 
+	background:#9c7070
+	}
+
+#info 
+	{
+	width:180px; 
+	background:#eee
+	}
+
+#info li 
+	{
+	width:160px; 
+	border-top:none; 
+	padding:8px 10px; 
+	color:#666; 
+	text-shadow:1px 1px #fff; 
+	text-align:left
+	}
