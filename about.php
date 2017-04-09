@@ -55,7 +55,7 @@
   <div align="center">
 </p>
   <p>
-    <img src="images/GroupTeamPhoto_3.jpg" width="221" height="" alt="Petersen Team pic" />
+    <img src="images/GroupTeamPhotoRev5.png" alt="Petersen Team pic" />
   </p>
 <div align=center>
 <font color=#AA0907 size=4><I><B>We Make It Happen! You Make It Home!</B></I></font><P>
