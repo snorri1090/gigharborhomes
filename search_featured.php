@@ -35,7 +35,9 @@ intCount = parseInt(intCount) + 1;
    <div id="int-content-main"><?php include "lpt-header.php"; ?>
             <div id="int-content">
                 <a name="wolfnet_search" id="wolfnet_search"></a>
-                <iframe src="http://search.gigharborhomes.com/search/results/list%3Fph%3D1300000%26zc%3D98332%2C98335%2C98333%2C98329%26pl%3D700000%26sort%3Dprice%5Fasc%26map%5Fbr%5Flng%3D%2D122%2E5594249%26map%5Ftl%5Flng%3D%2D122%2E679364%26map%5Ftl%5Flat%3D47%2E3874709%26map%5Fbr%5Flat%3D47%2E246964" name="main" id="main" width="910" height="600" frameborder="0" onLoad="scrolltop()"></iframe>
+                <iframe src="http://search.gigharborhomes.com/search/results/list?ls=Active&pl=700000&ph=1300000&startrow=1&maxrows=25&sort=price_desc&zc=98332%2C98335%2C98333%2C98329&redraw_map_bounds=true
+
+" name="main" id="main" width="910" height="600" frameborder="0" onLoad="scrolltop()"></iframe>
             </div>
 <?php include "lpt-footer.php"; ?>
     </div>
